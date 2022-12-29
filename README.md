@@ -1,0 +1,5 @@
+- 👋 Hi, I’m UMAR
+- 🌱 I’m currently learning full stack web developement from masai schoool
+- 💞️ I’m looking for opportunities to put my skills to use
+- 📫 How to reach me umerbinfarooq123@gmail.com
+- portfolio https://umar44641.github.io/
