@@ -39,7 +39,7 @@ Umar</h1>
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UMAR44641&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![UMAR44641 GitHub stats](https://github-readme-stats.vercel.app/api?username=UMAR44641&theme=algolia)](https://github.com/UMAR4464197/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR44641&theme=algolia)](https://github.com/UMAR44641/github-readme-stats) [![UMAR44641 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UMAR44641&theme=algolia)](https://github.com/UMAR44641/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UMAR44641&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![UMAR44641 GitHub stats](https://github-readme-stats.vercel.app/api?username=UMAR44641&theme=algolia)](https://github.com/UMAR4464197/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR44641&theme=algolia)](https://github.com/UMAR44641/github-readme-stats) 
 
 <br>
 Credit: [Umar farooq](https://github.com/UMAR44641)
