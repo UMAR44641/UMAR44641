@@ -28,5 +28,18 @@ Umar</h1>
 </p>
 
 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 
+
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UMAR44641&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![UMAR44641 GitHub stats](https://github-readme-stats.vercel.app/api?username=UMAR44641&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UMAR44641&theme=algolia)](https://github.com/UMAR44641/github-readme-stats) [![UMAR44641 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
 Credit: [Umar farooq](https://github.com/UMAR44641)
