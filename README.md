@@ -10,8 +10,8 @@ Umar</h1>
 
 - 📫 How to reach me **umerbinfarooq123@gmailcom**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/18rjVQSOgXOMF3OFE-nS_Fz0jgIQH44q_/view?usp=share_link" target="_blank">Resume</a>
-- 📄Here is my <a href="https://umar44641.github.io/" target="_blank">Portfolio</a>
+- 📄 Know about my experiences <atarget="_blank" href="https://drive.google.com/file/d/18rjVQSOgXOMF3OFE-nS_Fz0jgIQH44q_/view?usp=share_link" >Resume</a>
+- 📄Here is my <a target="_blank" href="https://umar44641.github.io/" >Portfolio</a>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -39,7 +39,7 @@ Umar</h1>
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UMAR44641&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![UMAR44641 GitHub stats](https://github-readme-stats.vercel.app/api?username=UMAR44641&theme=algolia)](https://github.com/UMAR4464197/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UMAR44641&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![UMAR44641 GitHub stats](https://github-readme-stats.vercel.app/api?username=UMAR44641&theme=algolia)](https://github.com/UMAR44641/github-readme-stats) 
 
 <br>
 Credit: [Umar farooq](https://github.com/UMAR44641)
