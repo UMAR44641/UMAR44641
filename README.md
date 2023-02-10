@@ -10,7 +10,7 @@ Umar</h1>
 
 - 📫 How to reach me **umerbinfarooq123@gmailcom**
 
-- 📄 Know about my experiences <atarget="_blank" href="https://drive.google.com/file/d/18rjVQSOgXOMF3OFE-nS_Fz0jgIQH44q_/view?usp=share_link" >Resume</a>
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/18rjVQSOgXOMF3OFE-nS_Fz0jgIQH44q_/view?usp=share_link" >Resume</a>
 - 📄Here is my <a target="_blank" href="https://umar44641.github.io/" >Portfolio</a>
 
 <br/>
